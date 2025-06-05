@@ -1,3 +1,3 @@
 # MongoDB Log Insight Frontend
 
-React + Supabase scaffold.
+React + Supabase scaffold.# Redeploy trigger
